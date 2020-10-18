@@ -15,7 +15,7 @@ git 操作流程
 
 ​	git add -A  把新建的文件添加到暂存区
 
-​	git commit -m “message”  把暂存区的文件添加到本地仓库 message代表着上传的描述信息
+​	git commit  -a -m “message”  把暂存区的文件添加到本地仓库 message代表着上传的描述信息  ,-a代表不用经过add就可以将所有文件添加到暂存区。
 
 ​	git push 用于将本地分支的更新，推送到远程主机
 
