@@ -1,1 +1,5 @@
 Flighting！！！
+
+
+测试git add -u  命令
+上传修改过后的文件
